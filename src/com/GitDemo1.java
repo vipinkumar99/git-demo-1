@@ -1,4 +1,4 @@
-package com.git.command.demo;
+package com;
 
 public class GitDemo1 {
 
